@@ -442,10 +442,10 @@
 <devices>
 <device name="" package="897-1AH-C-001">
 <connects>
-<connect gate="G$1" pin="1" pad="85_B 85_T" route="any"/>
-<connect gate="G$1" pin="2" pad="86_B 86_T" route="any"/>
-<connect gate="G$2" pin="O" pad="87_B 87_T" route="any"/>
-<connect gate="G$2" pin="P" pad="30_B 30_T" route="any"/>
+<connect gate="G$1" pin="1" pad="86_B 86_T" route="any"/>
+<connect gate="G$1" pin="2" pad="85_B 85_T" route="any"/>
+<connect gate="G$2" pin="O" pad="30_B 30_T"/>
+<connect gate="G$2" pin="P" pad="87_B 87_T"/>
 </connects>
 <technologies>
 <technology name=""/>
